@@ -5,7 +5,7 @@ public class Main {
          System.out.println(mng.checkContain("0367858046"));
          System.out.println(mng.sizeOfList());
          mng.addContact("Gam", "0367858046");
-         mng.addContact("Gam","0376740007");
+         mng.addContact("Gam","0376777789");
          System.out.println(mng.sizeOfList());
          mng.printContact();
          mng.editContact("0367858046", "0300678678");
